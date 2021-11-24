@@ -14,6 +14,6 @@ to convert the tsv tables to matlab tables.
 
 Then, all analysis and plotting scripts can be set, and called from 
 >'Data_analysis_A_Beh.m'
->>'Data_analysis_B_EEG.m'
+>'Data_analysis_B_EEG.m'
 
 I'll work on commenting and updating anything that's unclear, just let me know!
